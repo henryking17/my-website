@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-vanilla-js",
+  "version": "1.0.0",
+  "description": "Vanilla JavaScript version of Cyprain Henry's portfolio website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "preview": "vite preview",
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "vanilla-javascript",
+    "tailwind-css",
+    "lucide-icons",
+    "responsive"
+  ],
+  "author": "Cyprain Henry",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
